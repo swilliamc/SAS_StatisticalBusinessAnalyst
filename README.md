@@ -1,7 +1,8 @@
 # SAS_StatisticalBusinessAnalyst
 SAS Professional Certificate in Statistical Business Analyst with SAS
 
-SBA1 Introduction to Statistical Analysis and Hypothesis Testing
+
+**SBA1 Introduction to Statistical Analysis and Hypothesis Testing **
 
 SBA101 One-Sample Two-Sample t Tests
 
@@ -9,7 +10,8 @@ SBA102 ANOVA, Pearson Correlation and Simple Regression
 
 SBA103 Two-way ANOVA and Multiple Regressions
 
-SBA2 Regression Modeling Fundamentals
+
+**SBA2 Regression Modeling Fundamentals**
 
 SBA201 Model Building and Effect Selection
 
@@ -19,7 +21,8 @@ SBA202B Predictive Modeling and Scoring Predictive Models
 
 SBA203 Categorical Data Analysis
 
-SBA3 Predictive Modeling with Logistic Regression Using SAS
+
+**SBA3 Predictive Modeling with Logistic Regression Using SAS **
 
 SBA301 Understanding Predictive Modeling
 
